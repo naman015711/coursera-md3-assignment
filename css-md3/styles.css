@@ -1,0 +1,44 @@
+
+ .navbar-default{
+    border:5px solid black;
+ }
+ .container-fluid{
+    background-color: grey;
+ }
+ .container-fluid>div>a{
+    color:black;
+    height:5em; 
+}
+.name-brand{
+    color:black;
+}
+.c,.b,.s{
+    color: black;
+    text-align: center;
+}
+body{
+    box-sizing: border-box;
+}
+.main-content>div>div{
+    position:relative;
+    margin:30px auto 30px;
+    padding:5px;
+    float:left;
+    background-color: grey;
+    border:5px solid black;
+}
+.main-content div h3{
+    text-align: center;
+}
+.main-content>h1{
+    text-align: center;
+}
+.chicken{
+    align-items: center;
+    margin: 15px auto 15px;
+    
+}
+
+button {
+    overflow: visible;
+}
