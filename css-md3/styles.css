@@ -19,9 +19,9 @@
 body{
     box-sizing: border-box;
 }
-.main-content>div>div{
+.main-content>div>section{
     position:relative;
-    margin:30px auto 30px;
+    margin:30px 30px 30px 30px;
     padding:5px;
     float:left;
     background-color: grey;
